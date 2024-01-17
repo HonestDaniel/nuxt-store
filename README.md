@@ -1,75 +1,13 @@
-# Nuxt 3 Minimal Starter
+<h1>Для проверяющих</h1>
+Привет! Это мой первый опыт разработки проекта на Vue такого масштаба. 
+Также я впервые работаю с такими фреймворками и библиотеками как Nuxt, Vuetify и Pinia, 
+поэтому прошу вас не судить меня строго. Тем не менее, мне было приятно работать с этим стеком, и я был бы благодарен получить от вас офер.
+Если в моей работе есть какие-то недочеты, я буду рад, если вы укажете на них, чтобы я мог их исправить. Также если того, что сделано сейчас недостаточно
+для того, чтобы вы мне сделали предложение о работе, я готов доделать то, что требуется в level 3. Почему я не доделал level 3 сразу? 
+Кажется, на данный момент я чувствую себя уставшим от данного проекта, но я знаю, что получив обратную связь от вас, у меня появится "второе дыхание"
+чтобы доделать проект до конца.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
 
-Make sure to install the dependencies:
 
-```bash
-# npm
-npm install
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
